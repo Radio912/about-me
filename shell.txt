@@ -1,15 +1,8 @@
-call ip_config()
 
 do something great;
 do something not so great;
 call host_name()
 call ip_config() //again
-
-function ipconfig() 
-{
-  do this;
-  do that;
-}
 
 functiona host_name()
 {
